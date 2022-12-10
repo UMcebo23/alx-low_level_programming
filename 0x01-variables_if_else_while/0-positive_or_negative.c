@@ -4,7 +4,7 @@
 
 /*
  * main - Entry point
- *
+ * Description: Print positive or negative according to if
  * Return: Always 0 (Success)
  */
 
