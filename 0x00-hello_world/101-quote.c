@@ -1,7 +1,8 @@
 #include <stdio.h>
+#include <unistd.h>
 
 /**
- * main -  Entry pont
+ * main - Entry point
  * Description: Print char then new line without puts/pritnf
  * Return: 1
  */
