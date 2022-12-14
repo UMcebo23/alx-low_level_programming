@@ -12,9 +12,9 @@ int main(void)
 {
 	char l;
 	
-	for(int l = 'a'; l <= 'z';
-			l++)
+	for(int l = 'A'; l <= 'Z'; l++)
 	{
+		l = tolower(l);
 		putchar(l);
 		putchar('\n');
 	}
