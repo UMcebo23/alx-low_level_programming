@@ -12,11 +12,8 @@ int main(void)
 {
 	char l;
 	
-	for(int l = 'A'; l <= 'Z'; l++)
-	{
-		l = tolower(l);
+	for(int l = 'a'; l <= 'z'; l++)
 		putchar(l);
 		putchar('\n');
-	}
 	return (0);
 }
