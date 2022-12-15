@@ -5,15 +5,17 @@
 /**
  * main - Entry point
  * Description: Print lowercase with putchar
- * Return: 0
+ * Return: Always 0 (Success)
  */
 
 int main(void)
 {
-	char l;
-	
-	for(int l = 'a'; l <= 'z'; l++)
+	int l;
+
+	for (l = 'a'; l <= 'z'; l++)
+	{
 		putchar(l);
-		putchar('\n');
+	}
+	putchar('\n');
 	return (0);
 }
