@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /**
- * maint - Entry point
+ * main - Entry point
  * Descriptio: Print lower & uppercase alphabets
  * Return: Always 0 (Sucess)
  */
