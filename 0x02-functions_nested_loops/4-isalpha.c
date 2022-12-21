@@ -1,8 +1,8 @@
-#include "main.h" 
+#include "main.h"
 
 /**
  * _isalpha - Entry point
- * Description: function that checks 
+ * Description: function that checks
  * for alphabetic character
  * @c: Character received
  * Return: 1 for upper & lowercase, otherwise 0
