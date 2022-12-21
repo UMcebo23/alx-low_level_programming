@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * int _islower - Entry point
+ * _islower - Entry point
  * Description: function that checks for lowercase character
- * @c: integer value received 
+ * @c: integer value received
  * Return: 1 if lowercase, 0 if otherwise
  */
 
